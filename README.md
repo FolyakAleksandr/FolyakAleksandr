@@ -4,8 +4,7 @@
 
 И вот в сумме я уже больше года я разрабатываю мобильные приложения. Планирую и дальше развиваться в этой сфере, совершенствовать свои навыки, а также хочу внести вклад в проекты своей команды.
 
-⚒️ **Инструменты**: 
-<br>
+## ⚒️ Инструменты: 
 <div style="">
 <img alt="swift" src="https://cdn-icons-png.flaticon.com/512/3991/3991977.png" style="height: 50px;">
 <img alt="xcode" src="https://upload.wikimedia.org/wikipedia/ru/0/0c/Xcode_icon.png" style="height: 50px;"> 
@@ -15,13 +14,12 @@
 <img alt="xcode" src="https://cdn.jim-nielsen.com/macos/512/core-data-lab-2022-07-28.png?rf=1024" style="height: 50px;"> 
 <img alt="xcode" src="https://avatars.githubusercontent.com/u/7774181?v=4" style="height: 50px;">
 </div>
-<br>
 
-#### ✅ Достижения
+#### ✅ Достижения:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=FolyakAleksandr)](https://github.com/ryo-ma/github-profile-trophy)
 
-#### 💯 Успехи
+#### 💯 Успехи:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FolyakAleksandr)](https://github.com/anuraghazra/github-readme-stats) 
 
