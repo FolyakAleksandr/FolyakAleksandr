@@ -6,7 +6,6 @@
 
 ⚒️ **Инструменты**: 
 <br>
-
 <div class="block" style="display: flex; align-items: center; gap: 100px">
 <img alt="swift" src="https://cdn-icons-png.flaticon.com/512/3991/3991977.png" width="50">
 <img alt="xcode" src="https://upload.wikimedia.org/wikipedia/ru/0/0c/Xcode_icon.png" width="50"> 
@@ -16,8 +15,8 @@
 <img alt="xcode" src="https://cdn.jim-nielsen.com/macos/512/core-data-lab-2022-07-28.png?rf=1024" width="50"> 
 <img alt="xcode" src="https://avatars.githubusercontent.com/u/7774181?v=4" width="50">
 </div>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='60'>](https://github.com/FolyakAleksandr)  
+<br>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FolyakAleksandr)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=FolyakAleksandr)](https://github.com/ryo-ma/github-profile-trophy)
 
