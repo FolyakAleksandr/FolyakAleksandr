@@ -6,7 +6,7 @@
 
 ⚒️ **Инструменты**: 
 <br>
-<div class="block" style=" width: 100%; height: 50px;">
+<div style=" width: 100%; height: 50px;">
 <img alt="swift" src="https://cdn-icons-png.flaticon.com/512/3991/3991977.png" style="height: 100%;">
 <img alt="xcode" src="https://upload.wikimedia.org/wikipedia/ru/0/0c/Xcode_icon.png" width="50"> 
 <img alt="xcode" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7kLU40wsuarhlaL3-Q_FwFJKA9pj-5dngBy0_gRwSHwJ2-FXeANToSz2MZadMmK2MWhzgpdcdR9fuJnQI4IL5wZM_cG0SmgEY0ln3hV7sceRyU1OeKdO-4kJ1LiX2OaRKgrn8Q6p1P5U/s1024/spm.png" width="50">
