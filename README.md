@@ -5,7 +5,17 @@
 И вот в сумме я уже больше года я разрабатываю мобильные приложения. Планирую и дальше развиваться в этой сфере, совершенствовать свои навыки, а также хочу внести вклад в проекты своей команды.
 
 ⚒️ **Инструменты**: 
-<br><img alt="swift" src="https://cdn-icons-png.flaticon.com/512/3991/3991977.png" width="30">  <img alt="xcode" src="https://upload.wikimedia.org/wikipedia/ru/0/0c/Xcode_icon.png" width="40"> <img alt="xcode" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7kLU40wsuarhlaL3-Q_FwFJKA9pj-5dngBy0_gRwSHwJ2-FXeANToSz2MZadMmK2MWhzgpdcdR9fuJnQI4IL5wZM_cG0SmgEY0ln3hV7sceRyU1OeKdO-4kJ1LiX2OaRKgrn8Q6p1P5U/s1024/spm.png" width="35">  <img alt="xcode" src="https://static-00.iconduck.com/assets.00/uikit-icon-1768x2048-15mc115n.png" width="30"> <img alt="xcode" src="https://www.createwithswift.com/content/images/size/w2000/2021/12/createwithswift.com-using-mapkit-with-swiftui.png" width="45"> <img alt="xcode" src="https://cdn.jim-nielsen.com/macos/512/core-data-lab-2022-07-28.png?rf=1024" width="40"> <img alt="xcode" src="https://avatars.githubusercontent.com/u/7774181?v=4" width="40">
+<br>
+<style>
+.block {
+  display: flex,
+  align-items: center,
+  gap: 20px,
+</style>
+<div class="block" >
+  <img alt="swift" src="https://cdn-icons-png.flaticon.com/512/3991/3991977.png" width="30">  <img alt="xcode" src="https://upload.wikimedia.org/wikipedia/ru/0/0c/Xcode_icon.png" width="40"> <img alt="xcode" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7kLU40wsuarhlaL3-Q_FwFJKA9pj-5dngBy0_gRwSHwJ2-FXeANToSz2MZadMmK2MWhzgpdcdR9fuJnQI4IL5wZM_cG0SmgEY0ln3hV7sceRyU1OeKdO-4kJ1LiX2OaRKgrn8Q6p1P5U/s1024/spm.png" width="35">  <img alt="xcode" src="https://static-00.iconduck.com/assets.00/uikit-icon-1768x2048-15mc115n.png" width="30"> <img alt="xcode" src="https://www.createwithswift.com/content/images/size/w2000/2021/12/createwithswift.com-using-mapkit-with-swiftui.png" width="45"> <img alt="xcode" src="https://cdn.jim-nielsen.com/macos/512/core-data-lab-2022-07-28.png?rf=1024" width="40"> <img alt="xcode" src="https://avatars.githubusercontent.com/u/7774181?v=4" width="40">
+</div>
+
 
 - 🔭 I’m currently working on this page. 
 
