@@ -21,5 +21,5 @@
 
 ### 💯 Моя статистика:
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=FolyakAleksandr)![GitHub stats](https://github-readme-stats.vercel.app/api?username=FolyakAleksandr&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FolyakAleksandr&show_icons=true)  
 
