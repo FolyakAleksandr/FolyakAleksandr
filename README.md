@@ -16,14 +16,13 @@
 <img alt="xcode" src="https://avatars.githubusercontent.com/u/7774181?v=4" style="height: 50px;">
 </div>
 <br>
-✅ Достижения:
- <br><br>
+
+#### ✅ Достижения
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=FolyakAleksandr)](https://github.com/ryo-ma/github-profile-trophy)
-<br>
-### Привет👋 Меня зовут Александр
-💯 Успехи:
-<br><br>
+
+#### 💯 Успехи
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FolyakAleksandr)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FolyakAleksandr&show_icons=true)  
