@@ -16,7 +16,6 @@
 <img alt="xcode" src="https://avatars.githubusercontent.com/u/7774181?v=4" style="height: 50px;">
 </div>
 <br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FolyakAleksandr)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=FolyakAleksandr)](https://github.com/ryo-ma/github-profile-trophy)
 
