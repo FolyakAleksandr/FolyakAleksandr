@@ -16,7 +16,7 @@
 <img alt="xcode" src="https://avatars.githubusercontent.com/u/7774181?v=4" style="height: 50px;">
 </div>
 <br>
-#### ✅ Успехи:
+✅ **Успехи:**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FolyakAleksandr)](https://github.com/anuraghazra/github-readme-stats) 
 
