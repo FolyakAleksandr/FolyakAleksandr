@@ -5,7 +5,7 @@
 И вот в сумме я уже больше года я разрабатываю мобильные приложения. Планирую и дальше развиваться в этой сфере, совершенствовать свои навыки, а также хочу внести вклад в проекты своей команды.
 
 ### ⚒️ Инструменты: 
-<div style="">
+<div>
 <img alt="swift" src="https://cdn-icons-png.flaticon.com/512/3991/3991977.png" style="height: 50px;">
 <img alt="xcode" src="https://upload.wikimedia.org/wikipedia/ru/0/0c/Xcode_icon.png" style="height: 50px;"> 
 <img alt="xcode" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7kLU40wsuarhlaL3-Q_FwFJKA9pj-5dngBy0_gRwSHwJ2-FXeANToSz2MZadMmK2MWhzgpdcdR9fuJnQI4IL5wZM_cG0SmgEY0ln3hV7sceRyU1OeKdO-4kJ1LiX2OaRKgrn8Q6p1P5U/s1024/spm.png" style="height: 50px;">
@@ -19,7 +19,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=FolyakAleksandr)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 💯 Успехи:
+### 💯 Моя статистика:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FolyakAleksandr)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FolyakAleksandr&show_icons=true)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=FolyakAleksandr) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FolyakAleksandr&show_icons=true)  
 
