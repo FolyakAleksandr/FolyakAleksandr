@@ -1,16 +1,22 @@
-## Hi there 👋
+### Привет👋 Меня зовут Александр! 
+#### 👨‍💻 Обо мне: 
+Я iOS-разработчик с 8 месяцами опыта. Мой путь в it начался c 20 лет. Первый год я плотно занимался Front-end разработкой. Дальше решил освоить язык Swift, и влиться в мобильную разработку, а именно разработку под iOS. 
 
-<!--
-**FolyakAleksandr/FolyakAleksandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+И вот в сумме я уже больше года я разрабатываю мобильные приложения. Планирую и дальше развиваться в этой сфере, совершенствовать свои навыки, а также хочу внести вклад в проекты своей команды.
 
-Here are some ideas to get you started:
+⚒️ **Инструменты**:
+<img alt="swift" src="https://cdn-icons-png.flaticon.com/512/3991/3991977.png" width="30">  <img alt="xcode" src="https://upload.wikimedia.org/wikipedia/ru/0/0c/Xcode_icon.png" width="40"> <img alt="xcode" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7kLU40wsuarhlaL3-Q_FwFJKA9pj-5dngBy0_gRwSHwJ2-FXeANToSz2MZadMmK2MWhzgpdcdR9fuJnQI4IL5wZM_cG0SmgEY0ln3hV7sceRyU1OeKdO-4kJ1LiX2OaRKgrn8Q6p1P5U/s1024/spm.png" width="35">  <img alt="xcode" src="https://static-00.iconduck.com/assets.00/uikit-icon-1768x2048-15mc115n.png" width="30"> <img alt="xcode" src="https://www.createwithswift.com/content/images/size/w2000/2021/12/createwithswift.com-using-mapkit-with-swiftui.png" width="45"> <img alt="xcode" src="https://cdn.jim-nielsen.com/macos/512/core-data-lab-2022-07-28.png?rf=1024" width="40"> <img alt="xcode" src="https://avatars.githubusercontent.com/u/7774181?v=4" width="40">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FolyakAleksandr)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=FolyakAleksandr)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FolyakAleksandr)](https://github.com/anuraghazra/github-readme-stats) 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FolyakAleksandr&show_icons=true)  
+
+
+
